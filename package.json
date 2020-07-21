@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sehermahmud/simple-http-request.git"
+  },
+  "author": "Seher Mahmud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sehermahmud/simple-http-request/issues"
+  },
+  "homepage": "https://github.com/sehermahmud/simple-http-request#readme"
+}
